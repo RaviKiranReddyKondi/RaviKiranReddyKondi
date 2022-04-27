@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RaviKiranReddyKondi, iam postgraduate in Genetics and Plant Breeding
 - 👀 I’m interested in deep learning and computer vision application in Genetics and Plant Breeding
-- 🌱 I’m currently learning machine learning and computer vision with respect to Breeding perspective
-- 💞️ I’m looking to collaborate on deep learning projects
+- 🌱 I’m currently learning NGS, GWAS, Python and Microarry analysis with respect to Breeding perspective
+- 💞️ I’m intrested in Bioinformatics, High throughtput phenotyping, CV and Deep learning
 - 📫 How to reach me ravikiranreddykondi@gmail.com
 
 <!---
